@@ -9,8 +9,7 @@
 * [無料AI教室を全国へ！Code for Japan Summit 2026 登壇レポ(伊藤 一樹)](https://note.com/ai_kakekomi/n/nbc4e2ba2ac8b)
 
 ## Code for Japan Summit 2025
-* [Code for Summit に参加してきました(
-yukka kiyo)](https://note.com/yukkakiyo/n/n9468c86df8a8)
+* [Code for Summit に参加してきました(yukka kiyo)](https://note.com/yukkakiyo/n/n9468c86df8a8)
 
 ## Code for Japan Summit 2024
 * [Code for Japan Summit 2024に登壇しました(nisshi)](https://nisshi.dev/works/speaking/code-for-japan-summit-2024)
